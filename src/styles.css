@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.heading {
+  font-family: "Pacifico", cursive;
+}
